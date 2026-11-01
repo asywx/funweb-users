@@ -1,0 +1,14 @@
+{
+ "users": {
+  "bandi": {
+   "nev": "bandi",
+   "cmds": [
+    {
+     "t": 1793524904493,
+     "tipus": "grant",
+     "ertek": "reflex"
+    }
+   ]
+  }
+ }
+}
